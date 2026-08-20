@@ -31,6 +31,23 @@ Full-stack web application simulating a tennis player's career, built as a techn
 
 Additional game projects are kept private during development. Repository access is available on request as part of the interview process — feel free to reach out.
 
+### The Motion in the Potion
+Live the life of a witch in this ultra immersive cauldron spinning simulator
+
+<img width="240" height="135" alt="2_Quests" src="https://github.com/user-attachments/assets/6cbb1936-0bb0-4339-b4c4-1013cf4f8e84" />
+<img width="240" height="135" alt="3_Outside" src="https://github.com/user-attachments/assets/ae83f539-01d2-4b23-a417-fe6a786d9f14" />
+<img width="240" height="135" alt="7_Instructions Manual" src="https://github.com/user-attachments/assets/0a7ad45d-7587-4e0d-844a-0260163dea76" />
+<img width="240" height="135" alt="9_Create Potion" src="https://github.com/user-attachments/assets/8b9c0aeb-9240-4bdc-81a1-6c402ccfc289" />
+
+### Foranger
+You have just been assigned as the ranger in a magical forest. You have to protect it and its inhabitants, while also providing potion ingredients for your clients. Be careful though, for there is evil in this magical world, an it could be spreading throughout your forest next!
+
+<img width="240" height="135" alt="foranger 1" src="https://github.com/user-attachments/assets/37c7a563-8970-4931-8b61-7302dbbe68b3" />
+<img width="240" height="135" alt="foranger 2" src="https://github.com/user-attachments/assets/77cb8f61-e18e-4e9e-913f-2dee7f8c48e2" />
+<img width="240" height="135" alt="foranger 3" src="https://github.com/user-attachments/assets/84ce592c-33a7-470b-80a4-b84c0998bb06" />
+<img width="240" height="135" alt="foranger 5" src="https://github.com/user-attachments/assets/b02ff7c7-7e1e-40c0-a425-c2e0ac507c19" />
+
+
 ## Contact
 
 - Email: theodoreungureanu@gmail.com
