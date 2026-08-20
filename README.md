@@ -64,6 +64,10 @@ Painter
 <img width="240" height="135" alt="tdwtwlic 10" src="https://github.com/user-attachments/assets/40c14a6d-0d90-43d9-aead-d1945c88a63d" />
 <img width="240" height="135" alt="tdwtwlic 11" src="https://github.com/user-attachments/assets/970cabcb-e4d1-4ec8-a280-6667e9c0465e" />
 
+### Dauntless Spirit
+[![Watch the demo](https://img.youtube.com/vi/cD6cMA5CJwA/0.jpg)](https://youtu.be/cD6cMA5CJwA)
+
+
 ## Contact
 
 - Email: theodoreungureanu@gmail.com
