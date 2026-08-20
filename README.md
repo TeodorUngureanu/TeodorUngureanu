@@ -49,6 +49,20 @@ You have just been assigned as the ranger in a magical forest. You have to prote
 <img width="240" height="135" alt="foranger 4" src="https://github.com/user-attachments/assets/39631bd3-9b16-481f-b427-1a25328c30e4" />
 <img width="240" height="135" alt="foranger 5" src="https://github.com/user-attachments/assets/b02ff7c7-7e1e-40c0-a425-c2e0ac507c19" />
 
+### The Day When The World Lost Its Color
+Painter
+
+<img width="240" height="135" alt="tdwtwlic 1" src="https://github.com/user-attachments/assets/b22509cd-2798-474e-91c8-00926601bcb7" />
+<img width="240" height="135" alt="tdwtwlic 2" src="https://github.com/user-attachments/assets/61790d96-0cad-43d4-92c2-81f670bae795" />
+<img width="240" height="135" alt="tdwtwlic 3" src="https://github.com/user-attachments/assets/46d7bab9-0461-4f53-bf57-5132442772b8" />
+<img width="240" height="135" alt="tdwtwlic 4" src="https://github.com/user-attachments/assets/2a672ba6-eaee-42a6-925f-409c6a5b9d55" />
+<img width="240" height="135" alt="tdwtwlic 5" src="https://github.com/user-attachments/assets/5c15a46d-8b78-45c5-b611-e5669941e0c0" />
+<img width="240" height="135" alt="tdwtwlic 6" src="https://github.com/user-attachments/assets/fb412eb7-bae0-48ea-aed6-c3ced1c6ad9f" />
+<img width="240" height="135" alt="tdwtwlic 7" src="https://github.com/user-attachments/assets/8ba90f25-ba2e-44a0-b576-96d53c55124a" />
+<img width="240" height="135" alt="tdwtwlic 8" src="https://github.com/user-attachments/assets/2384431f-ab87-4c7e-85cd-49b4c54b82db" />
+<img width="240" height="135" alt="tdwtwlic 9" src="https://github.com/user-attachments/assets/4786157b-d492-4f55-a5dd-5a6c8391f1fd" />
+<img width="240" height="135" alt="tdwtwlic 10" src="https://github.com/user-attachments/assets/40c14a6d-0d90-43d9-aead-d1945c88a63d" />
+<img width="240" height="135" alt="tdwtwlic 11" src="https://github.com/user-attachments/assets/970cabcb-e4d1-4ec8-a280-6667e9c0465e" />
 
 ## Contact
 
