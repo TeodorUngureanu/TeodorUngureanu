@@ -10,8 +10,8 @@ This profile brings together several of my projects, including a few games 🎮 
 A full-stack web app simulating a tennis player's career — *not a game project, but a deliberate technical playground* to go deep on a modern, enterprise-relevant stack: Laravel as the core application (PHP, Inertia.js + React + TypeScript, typed routing via Wayfinder), with an isolated NestJS microservice planned to own the point-by-point match simulation engine, called server-to-server.
 
 **✅ Done so far:**
-- Full local dev environment containerized end-to-end: Docker Compose (Laravel + MySQL, NestJS + PostgreSQL, Adminer), running through VS Code Dev Containers — no "works on my machine" drift between services.
-- Laravel backend live with Inertia.js + React + TypeScript, tested with Pest (48 passing tests) and documented via L5-Swagger (OpenAPI).
+- Full local dev environment containerized end-to-end: Docker Compose (Laravel + MySQL, NestJS + PostgreSQL, Adminer), running through VS Code Dev Containers.
+- Laravel backend live with Inertia.js + React + TypeScript, tested with Pest and documented via L5-Swagger (OpenAPI).
 - NestJS service scaffolded, running, and reachable server-to-server from Laravel over the internal Docker network.
 - Character creation — the first real gameplay feature — implemented and covered by tests.
 
