@@ -1,6 +1,6 @@
 # Teodor Ungureanu
 
-**Senior Software Developer** — PHP/Laravel & React. 9+ years building enterprise software, 6 of them leading engineering teams for banking, retail, and industrial clients. Currently at [Hyperfy](https://hyperfy.tech/en).
+**Senior Software Developer** — PHP/Laravel & React. 9+ years building enterprise software, 6 of them leading engineering teams for banking, retail, and industrial clients.
 
 This profile brings together several of my projects, including a few games 🎮 built in my free time — a hobby that keeps sharpening both my programming and design skills. Feel free to also browse my [repositories](https://github.com/TeodorUngureanu?tab=repositories) — some are public, others are private and previewed below instead.
 
@@ -52,7 +52,3 @@ A painter is working on a cathedral fresco when a chemical spill damages his eye
 An evil spirit captures the Seasons, causing chaos and turning the world into a desert. The Fox sets out to save them, first crossing the desert and facing the evil spirit in a final battle — defeating it and forcing it to retreat. The Fox then enters each Season's territory; each one has been corrupted and must be defeated before joining the party. Each Season has one or more unique abilities, and switching between the Fox and a Season shifts the background's color palette to reflect that Season. By the end, the party is made up of the Fox and all four Seasons, who must face the evil spirit once more — having absorbed part of the Seasons' powers in the meantime, it is now far harder to defeat.
 
 [<img src="https://img.youtube.com/vi/cD6cMA5CJwA/0.jpg" width="240">](https://youtu.be/cD6cMA5CJwA)
-
-## 📬 Contact
-
-- Email: theodoreungureanu@gmail.com
